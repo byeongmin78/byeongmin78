@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @byeongmin78
+- 👋 Hi, I’m byeongmin
 - 👀 I’m interested in design verification
 - 🌱 I’m currently learning verification methodology
 - 💞️ I’m looking to collaborate on verification methodology
